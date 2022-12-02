@@ -1,5 +1,4 @@
 from selenium import webdriver
-from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -32,6 +31,8 @@ text: /html/body/root/normal-survey-flow/normal-survey-container/survey/div/div/
 next: /html/body/root/normal-survey-flow/normal-survey-container/normal-survey-footer/footer/section[3]/footer-paginator/div/button[2]
 finish: /html/body/root/normal-survey-flow/normal-survey-container/survey/div/div/div/div[2]/button
 '''
+
+textarea_input = "asdasd"
 
 total = 0
 
@@ -109,7 +110,7 @@ for i in range(10):
         q11.click()
 
         text_area = driver.find_element(By.XPATH, '/html/body/root/normal-survey-flow/normal-survey-container/survey/div/div/div/div/app-question-frame[2]/div/form/multi-line-accessor/textarea')
-        text_area.send_keys('I am a bot')
+        text_area.send_keys(textarea_input)
 
         next_button = driver.find_element(By.XPATH, '/html/body/root/normal-survey-flow/normal-survey-container/normal-survey-footer/footer/section[3]/footer-paginator/div/button[2]')
         next_button.click()
