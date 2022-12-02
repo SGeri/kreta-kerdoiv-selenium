@@ -1,0 +1,20 @@
+first button /html/body/root/normal-survey-flow/normal-survey-start-container/survey-start/survey-start-footer/footer/section[2]/footer-start-button/button
+q1: /html/body/root/normal-survey-flow/normal-survey-container/survey/div/div/div/div/app-question-frame[1]/div/form/single-select-accessor/div[3]/input
+q2: /html/body/root/normal-survey-flow/normal-survey-container/survey/div/div/div/div/app-question-frame[2]/div/form/single-select-accessor/div[4]/input
+next: /html/body/root/normal-survey-flow/normal-survey-container/normal-survey-footer/footer/section[3]/footer-paginator/div/button[2]
+q3: /html/body/root/normal-survey-flow/normal-survey-container/survey/div/div/div/div/app-question-frame[1]/div/form/single-select-accessor/div[5]/input
+q4: /html/body/root/normal-survey-flow/normal-survey-container/survey/div/div/div/div/app-question-frame[2]/div/form/single-select-accessor/div[1]/input
+next: /html/body/root/normal-survey-flow/normal-survey-container/normal-survey-footer/footer/section[3]/footer-paginator/div/button[2]
+q5: /html/body/root/normal-survey-flow/normal-survey-container/survey/div/div/div/div/app-question-frame[1]/div/form/single-select-accessor/div[5]/input
+q6: /html/body/root/normal-survey-flow/normal-survey-container/survey/div/div/div/div/app-question-frame[2]/div/form/single-select-accessor/div[2]/input
+next: /html/body/root/normal-survey-flow/normal-survey-container/normal-survey-footer/footer/section[3]/footer-paginator/div/button[2]
+q7: /html/body/root/normal-survey-flow/normal-survey-container/survey/div/div/div/div/app-question-frame[1]/div/form/single-select-accessor/div[1]/input
+q8: /html/body/root/normal-survey-flow/normal-survey-container/survey/div/div/div/div/app-question-frame[2]/div/form/single-select-accessor/div[5]/label
+next: /html/body/root/normal-survey-flow/normal-survey-container/normal-survey-footer/footer/section[3]/footer-paginator/div/button[2]
+q9: /html/body/root/normal-survey-flow/normal-survey-container/survey/div/div/div/div/app-question-frame[1]/div/form/single-select-accessor/div[1]/input
+q10: /html/body/root/normal-survey-flow/normal-survey-container/survey/div/div/div/div/app-question-frame[2]/div/form/single-select-accessor/div[1]/input
+next: /html/body/root/normal-survey-flow/normal-survey-container/normal-survey-footer/footer/section[3]/footer-paginator/div/button[2]
+q11: /html/body/root/normal-survey-flow/normal-survey-container/survey/div/div/div/div/app-question-frame[1]/div/form/single-select-accessor/div[1]/label
+text: /html/body/root/normal-survey-flow/normal-survey-container/survey/div/div/div/div/app-question-frame[2]/div/form/multi-line-accessor/textarea
+next: /html/body/root/normal-survey-flow/normal-survey-container/normal-survey-footer/footer/section[3]/footer-paginator/div/button[2]
+finish: /html/body/root/normal-survey-flow/normal-survey-container/survey/div/div/div/div[2]/button
